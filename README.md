@@ -8,6 +8,6 @@ NextHeisei.bas をVBのプロジェクトに追加してください。
 ## 設定
 設定というか新元号についてはソースに直で書いてあるので、4/1になったら下記を書き換えてください。
 上から、漢字二文字の新元号、漢字1文字の新元号、アルファベットの新元号です。
->Const G3 As String = "新号"
->Const G2 As String = "新"
->Const G1 As String = "\N"
+>Const G3 As String = "新号"  
+>Const G2 As String = "新"  
+>Const G1 As String = "\N"  
